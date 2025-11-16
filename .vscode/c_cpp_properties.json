@@ -16,7 +16,7 @@
             "cppStandard": "c++17",
             "intelliSenseMode": "gcc-arm",
             "compilerArgs": [
-                "-mcpu=cortex-m1",
+                "-mcpu=cortex-m3",
                 "-mthumb"
             ]
         }
